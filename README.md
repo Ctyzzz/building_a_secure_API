@@ -142,6 +142,7 @@ docs/screenshots/authorize.png
 docs/screenshots/chat.png
 docs/screenshots/history.png
 docs/screenshots/clear_history.png
+docs/screenshots/after_clear.png
 ```
 
 ## API screenshots
